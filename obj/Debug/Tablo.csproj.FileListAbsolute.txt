@@ -1,0 +1,7 @@
+C:\Users\Arshak\source\repos\Tablo\Tablo\bin\Debug\Tablo.exe.config
+C:\Users\Arshak\source\repos\Tablo\Tablo\bin\Debug\Tablo.exe
+C:\Users\Arshak\source\repos\Tablo\Tablo\bin\Debug\Tablo.pdb
+C:\Users\Arshak\source\repos\Tablo\Tablo\obj\Debug\Tablo.csprojAssemblyReference.cache
+C:\Users\Arshak\source\repos\Tablo\Tablo\obj\Debug\Tablo.csproj.CoreCompileInputs.cache
+C:\Users\Arshak\source\repos\Tablo\Tablo\obj\Debug\Tablo.exe
+C:\Users\Arshak\source\repos\Tablo\Tablo\obj\Debug\Tablo.pdb
